@@ -1,2 +1,2 @@
 # dotifiles-hi10pro
-Dotfiles for the BSPWM/Polybar setup on m Chuwi hi10 pro
+Dotfiles of my BSPWM/Polybar setup with gruvbox dark color schemes.
